@@ -4,7 +4,7 @@ List of everything you can currently do with the [Anki Vector robot](https://www
 
 Compile into one list from the Vector app
 
-## Comands
+## Commands
 
 ### Starting Off
 
@@ -29,6 +29,10 @@ Hey Vector, goodbye
 Hey Vector, my name is Luke
 
 Hey Vector, what's my name?
+
+--
+
+Hey Vector, Who am I?
 
 -------
 
@@ -111,8 +115,26 @@ Hey Vector, listen to the music
 --
 
 Hey Vector, play blackjack
+or
+Hey Vector, play a game?
 
 Hey Vector, quit blackjack
+
+--
+
+Hey Vector, fire works
+or
+Hey Vector, Celebrate
+
+--
+
+Hey Vector, Happy New Year
+
+--
+
+Hey Vector, Happy Birthday
+or
+Hey Vector, How old are you?
 
 -------
 
@@ -135,3 +157,10 @@ Hey Vector, I have a question --wait-- how many miles in a kilometer?
 Hey Vector, I have a question --wait-- what is 10 pounds in euros?
 
 Hey Vector, I have a question --wait-- what is the square root of 144?
+
+Hey Vector, question --wait-- who are you?
+
+Hey Vector, question --wait-- who was Anki?
+
+Hey Vector, question --wait-- who is R2D2?
+
